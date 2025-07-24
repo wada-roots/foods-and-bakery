@@ -92,7 +92,7 @@ const Home = () => {
         <div className="relative z-10 flex items-center justify-center h-full">
           <div className="text-center text-white max-w-4xl px-4">
             <h1 className="text-5xl md:text-7xl font-bold mb-6 fade-in">
-              Kennes Foods
+              Foods and Bakery
             </h1>
             <h2 className="text-2xl md:text-3xl mb-6 fade-in" style={{animationDelay: '0.2s'}}>
               Baked with Love. Served with Passion.
@@ -107,7 +107,7 @@ const Home = () => {
                   View Our Menu
                 </Link>
               </Button>
-              <Button asChild variant="outline" size="lg" className="border-white text-white hover:bg-white hover:text-primary px-8 py-3">
+              <Button asChild size="lg" className="bg-primary hover:bg-primary/90 text-white px-8 py-3">
                 <Link to="/contact">
                   Order Now
                   <ArrowRight className="w-5 h-5 ml-2" />

@@ -38,7 +38,7 @@ const Navbar = () => {
             <div className="w-10 h-10 bg-gradient-warm rounded-full flex items-center justify-center text-white font-bold text-lg group-hover:scale-110 transition-transform">
               K
             </div>
-            <span className="text-2xl font-bold text-primary">Kennes Foods</span>
+            <span className="text-2xl font-bold text-primary">Foods and Bakery</span>
           </Link>
 
           {/* Desktop Navigation */}
